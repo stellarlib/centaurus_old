@@ -1,0 +1,2 @@
+from tree_sprite import TreeSprite
+from sprite_component import SpriteComponent
